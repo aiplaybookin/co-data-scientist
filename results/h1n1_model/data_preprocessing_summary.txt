@@ -1,0 +1,10 @@
+Original dataset shape: (26707, 37)
+Processed features shape: (26707, 93)
+Target distribution:
+h1n1_vaccine
+0    21033
+1     5674
+Target percentage:
+h1n1_vaccine
+0    0.787546
+1    0.212454
